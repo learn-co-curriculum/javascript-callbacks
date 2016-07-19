@@ -69,7 +69,7 @@ For example, let's say we have a function that lets us do anything we want to th
 
 ``` javascript
 function doTo5(anything) {
-  anything(5)
+  return anything(5)
 }
 ```
 
@@ -119,3 +119,5 @@ function somethingExpensive(callback) {
 
 - [JavaScript Is Sexy: Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/): http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
 - [StackOverflow: Explain Callbacks in Plain English](http://stackoverflow.com/questions/9596276/how-to-explain-callbacks-in-plain-english-how-are-they-different-from-calling-o): http://stackoverflow.com/questions/9596276/how-to-explain-callbacks-in-plain-english-how-are-they-different-from-calling-o
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-callbacks'>Javascript Callbacks</a> on Learn.co and start learning to code for free.</p>
