@@ -54,7 +54,7 @@ function groupAndClean(items, cleaningMethod, done) {
 
 groupAndClean(nails.concat(planks), clean, function() {
   console.log('Whew, that was a lot of work!')
-}
+})
 ```
 
 So went the days of my youth, when I learned to pass **functions as arguments** to other functions.
