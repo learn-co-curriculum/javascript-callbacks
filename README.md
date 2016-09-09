@@ -34,7 +34,7 @@ for (var i = 0, l = nails.length; i < l; i++) {
 
 var planks = ["splintered plank", "straight plank", "bent plank"]
 
-for (var i = 0, l = nails.length; i < l; i++) {
+for (var i = 0, l = planks.length; i < l; i++) {
   clean(planks[i])
 }
 
