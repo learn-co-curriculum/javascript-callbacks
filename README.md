@@ -19,7 +19,7 @@ Boats, as you know, have many moving parts. And these parts need to be cleaned.
 
 Now, I could have cleaned every part separately, _iterating_ through the piles of barnacle-encrusted tools one by one, preparing to clean each individual piece with a bit of a care.
 
-Or I could get a bit smarter about it. I could prepare once for each group of related items, so that I wouldn't have to prepare to clean each item individually. In code, that might like like:
+Or I could get a bit smarter about it. I could prepare once for each group of related items, so that I wouldn't have to prepare to clean each item individually. In code, that might look like:
 
 ``` javascript
 function clean(item) {
