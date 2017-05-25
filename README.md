@@ -28,13 +28,13 @@ function clean(item) {
 
 var nails = ["rusty nail", "rusty nail", "bent nail", "clean nail"]
 
-for (var i = 0, l = nails.length; i < l; i++) {
+for (var i = 0; i < nails.length; i++) {
   clean(nails[i])
 }
 
 var planks = ["splintered plank", "straight plank", "bent plank"]
 
-for (var i = 0, l = planks.length; i < l; i++) {
+for (var i = 0; i < planks.length; i++) {
   clean(planks[i])
 }
 
@@ -45,7 +45,7 @@ And so on and so forth. Well now, this wasn't so bad, but I noticed that I was p
 
 ``` javascript
 function groupAndClean(items, cleaningMethod, done) {
-  for (var i = 0, l = items.length; i < l; i++) {
+  for (var i = 0; i < items.length; i++) {
     cleaningMethod(items[i])
   }
 
