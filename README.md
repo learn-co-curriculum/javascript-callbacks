@@ -1,5 +1,4 @@
-JavaScript Callbacks
----
+# JavaScript Callbacks
 
 ## Objectives
 
@@ -11,7 +10,7 @@ JavaScript Callbacks
 
 When I was your age, I had a boat.
 
-![boat](https://static.pexels.com/photos/87306/pexels-photo-87306.jpeg)
+![Boat](https://user-images.githubusercontent.com/17556281/28758193-16bc31b8-7562-11e7-8539-cc39b31def8f.jpeg)
 
 It was not a fancy boat or a particularly nice boat, but it was my boat.
 
@@ -117,7 +116,10 @@ function somethingExpensive(callback) {
 
 ## Resources
 
-- [JavaScript Is Sexy: Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/): http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
-- [StackOverflow: Explain Callbacks in Plain English](http://stackoverflow.com/questions/9596276/how-to-explain-callbacks-in-plain-english-how-are-they-different-from-calling-o): http://stackoverflow.com/questions/9596276/how-to-explain-callbacks-in-plain-english-how-are-they-different-from-calling-o
+- [JavaScript Is Sexy: Callbacks][JIS: Callbacks]
+- [StackOverflow: Explain Callbacks in Plain English][SO: Callbacks]
+
+[JIS: Callbacks]: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+[SO: Callbacks]: http://stackoverflow.com/questions/9596276/how-to-explain-callbacks-in-plain-english-how-are-they-different-from-calling-o
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-callbacks'>Javascript Callbacks</a> on Learn.co and start learning to code for free.</p>
